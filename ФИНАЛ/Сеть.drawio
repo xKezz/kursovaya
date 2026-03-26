@@ -1,0 +1,93 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 YaBrowser/25.12.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Страница-1" id="HUhyB3FaddnZULKT1yTR">
+    <mxGraphModel dx="983" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-10" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7RZx8c3m_FDCdCz4T8aI-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-12" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7RZx8c3m_FDCdCz4T8aI-11" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Межсетевой экран / DMZ" vertex="1">
+          <mxGeometry height="50" width="130" x="320" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-13" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Основной дата-центр" vertex="1">
+          <mxGeometry height="50" width="130" x="180" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-14" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Резервный дата-центр" vertex="1">
+          <mxGeometry height="50" width="130" x="470" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-16" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="VPN-шлюз" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-20" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7RZx8c3m_FDCdCz4T8aI-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-21" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7RZx8c3m_FDCdCz4T8aI-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Удаленные пользователи" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-24" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Дивизион «Ресурс» (горнодобыча)" vertex="1">
+          <mxGeometry height="50" width="120" x="190" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-23" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7RZx8c3m_FDCdCz4T8aI-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Дивизион «Российская сталь» (металлургия)" vertex="1">
+          <mxGeometry height="50" width="120" x="470" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-27" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7RZx8c3m_FDCdCz4T8aI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-28" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7RZx8c3m_FDCdCz4T8aI-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Сбытовая и логистическая сеть" vertex="1">
+          <mxGeometry height="50" width="120" x="330" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-32" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="7RZx8c3m_FDCdCz4T8aI-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Промышленные сети (датчики, контроллеры, АСУ)" vertex="1">
+          <mxGeometry height="60" width="120" x="470" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-31" edge="1" parent="1" source="7RZx8c3m_FDCdCz4T8aI-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="7RZx8c3m_FDCdCz4T8aI-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Корпоративная сеть (управление, финансы, HR, документооборот)" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Диспетчерские пульты панельных операторов" vertex="1">
+          <mxGeometry height="50" width="120" x="470" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="7RZx8c3m_FDCdCz4T8aI-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Рабочие станции сотрудников" vertex="1">
+          <mxGeometry height="50" width="120" x="190" y="660" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
